@@ -145,5 +145,3 @@ Script: reconocimiento_facial.py
 ## Ejercicio 32: Aplicación CRUD con MongoDB
 En este ejercicio se construye una aplicacion CRUD (Create, Read, Update, Delete) utilizando MongoDB (sistema de base de datos NoSQL). 
 Scripts: mongodb_app.py, mongodb_insert.py, mongodb_update.py, mongodb_read.py, mongodb_delete.py
-
-## Pendiente ejercicios Python para automatización, RPA, testing (pytest), mobile & web apps (Django,Flask,Node Red,Angular,Vue,Express,React),BBDD (Relacionales: PostgreSQL, MySQL- No Relacionales: MongoDB, Redis), CI/CD (concepto continuos integration-continuos deployment)
